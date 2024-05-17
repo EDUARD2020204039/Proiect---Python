@@ -1,0 +1,244 @@
+[general-usor]
+- 1. Ce motor are BMW 520d f10?: 2.0
+* A. 2.0 / B. 2.5 / C. 1.6 / D. 1.9
+
+- 2. Care dintre urmatoarele uleiuri este mai bun?: ravenol
+* A. mobil / B. castrol / C. ravenol / D. niciunul
+
+- 3. Este Pamantul rotund?: da
+* A. da / B. nu / C. nu stiu / D. nu traim pe Marte?
+
+- 4. Cine a creat Python-ul?: rossum
+* A. Rossum / B. Elon Musk / C. Bill Gates / D. Ceausescu
+
+- 5. Cat face 2 + 2?: 4
+* A. 3 / B. 4 / C. 5 / D. 6
+
+- 6. Care este capitala Frantei?: paris
+* A. londra / B. berlin / C. roma / D. paris
+
+- 7. Care este simbolul chimic pentru hidrogen?: h
+* A. o / B. h / C. he / D. c
+
+- 8. Cine a scris "Razboi si pace"?: tolstoi
+* A. dostoevsky / B. tolstoi / C. pushkin / D. chekhov
+
+- 9. Câte zile are un an bisect?: 366
+* A. 365 / B. 366 / C. 364 / D. 367
+
+- 10. Care este cel mai mare ocean al lumii?: pacific
+* A. atlantic / B. indian / C. pacific / D. arctic
+
+- 11. Cine a inventat becul electric?: edison
+* A. Edison / B. Tesla / C. Graham Bell / D. Faraday
+
+- 12. Ce simbol are elementul chimic oxigen?: o
+* A. H / B. O / C. Au / D. Ag
+
+- 13. Care este capitala Japoniei?: tokyo
+* A. Beijing / B. Seul / C. Bangkok / D. Tokyo
+
+- 14. Cine a pictat Mona Lisa?: da Vinci
+* A. Michelangelo / B. Caravaggio / C. Raphael / D. Da Vinci
+
+- 15. Ce metal este denumit "aurul alb"?: argint
+* A. Argint / B. Platina / C. Aluminiu / D. Titan
+
+- 16. Cine a compus Simfonia a 9-a?: beethoven
+* A. Beethoven / B. Mozart / C. Bach / D. Haydn
+
+- 17. Care este cel mai lung fluviu din lume?: nil
+* A. Nil / B. Amazon / C. Yangtze / D. Mississippi
+
+- 18. Care este capitala Spaniei?: madrid
+* A. Barcelona / B. Valencia / C. Madrid / D. Sevilla
+
+- 19. Cine a scris "Romeo și Julieta"?: shakespeare
+* A. Dickens / B. Dostoevsky / C. Shakespeare / D. Goethe
+
+- 20. Câte continente sunt pe Pământ?: 7
+* A. 5 / B. 6 / C. 7 / D. 8
+
+[general-greu]
+- 1. Câte planete au inele în sistemul solar?: 4
+* A. 2 / B. 3 / C. 4 / D. 5
+
+- 2. Cat face 2 la puterea 10?: 1024
+* A. 1024 / B. 1000 / C. 2048 / D. 512
+
+- 3. Care este cea mai mare planeta din sistemul solar?: jupiter
+* A. jupiter / B. saturn / C. neptun / D. uranus
+
+- 4. Câte bituri sunt într-un octet?: 8
+* A. 4 / B. 8 / C. 16 / D. 12
+
+- 5. Care este capitala Sloveniei?: ljubljana
+* A. sofia / B. skopje / C. belgrad / D. ljubljana
+
+- 6. Cine a scris "Crima și pedeapsa"?: dostoevsky
+* A. pushkin / B. tolstoi / C. chekhov / D. dostoevsky
+
+- 7. Care este simbolul chimic pentru argint?: ag
+* A. au / B. ar / C. ag / D. ac
+
+- 8. Care este capitala Suediei?: stockholm
+* A. helsinki / B. oslo / C. copenhaga / D. stockholm
+
+- 9. Cate secunde sunt într-un minut?: 60
+* A. 30 / B. 60 / C. 90 / D. 120
+
+- 10. Care este cel mai înalt munte din lume?: everest
+* A. k2 / B. everest / C. kilimanjaro / D. mont blanc
+
+- 11. Cine a scris romanul "Crimă și pedeapsă"?: Dostoevsky
+* A. Dostoevsky / B. Tolstoy / C. Pushkin / D. Gogol
+
+- 12. Cine a descoperit radiațiile X?: Roentgen
+* A. Einstein / B. Curie / C. Roentgen / D. Faraday
+
+- 13. Care este formula chimică a acidului sulfuric?: H2SO4
+* A. HCl / B. HNO3 / C. H2SO4 / D. CH4
+
+- 14. Cine a formulat teoria relativității restrânse?: Einstein
+* A. Newton / B. Einstein / C. Planck / D. Heisenberg
+
+- 15. Care este cea mai mare planetă din sistemul solar?: Jupiter
+* A. Marte / B. Venus / C. Jupiter / D. Saturn
+
+- 16. Care este capitala Canadei?: Ottawa
+* A. Toronto / B. Montreal / C. Ottawa / D. Vancouver
+
+- 17. Cine a fost primul om care a călătorit în spațiu?: Gagarin
+* A. Armstrong / B. Gagarin / C. Glenn / D. Aldrin
+
+- 18. Care este cel mai înalt munte de pe Pământ?: Everest
+* A. Kilimanjaro / B. Everest / C. K2 / D. Makalu
+
+- 19. Cine a compus opera "Flautul fermecat"?: Mozart
+* A. Beethoven / B. Mozart / C. Bach / D. Handel
+
+- 20. Ce mare se află între Europa și Africa?: Mediterana
+* A. Adriatică / B. Ioniană / C. Mediteraneană / D. Egee
+
+[orase-usor]
+- 1. Care este capitala României?: bucuresti
+* A. Budapesta / B. Belgrad / C. Chisinau / D. Bucuresti
+
+- 2. Care este cel mai populat oras din lume?: tokyo
+* A. Londra / B. New York / C. Tokyo / D. Mumbai
+
+- 3. Care este capitala Frantei?: paris
+* A. Londra / B. New York / C. Tokyo / D. Paris
+
+- 4. Care este cel mai mare oraș din Italia?: roma
+* A. Roma / B. Milano / C. Napoli / D. Veneția
+
+- 5. Care este cel mai mare oraș din Brazilia?: sao paulo
+* A. Rio de Janeiro / B. Sao Paulo / C. Brasilia / D. Salvador
+
+- 6. Care este capitala Spaniei?: madrid
+* A. Madrid / B. Barcelona / C. Valencia / D. Sevilla
+
+- 7. Care este capitala Portugaliei?: lisabona
+* A. Porto / B. Lisbona / C. Coimbra / D. Faro
+
+- 8. Care este capitala Olandei?: amsterdam
+* A. Rotterdam / B. Utrecht / C. Eindhoven / D. Amsterdam
+
+- 9. Care este cel mai mare oraș din Canada?: toronto
+* A. Toronto / B. Vancouver / C. Montreal / D. Ottawa
+
+- 10. Care este capitala Germaniei?: berlin
+* A. Hamburg / B. Berlin / C. Frankfurt / D. Munich
+
+- 11. Care este cel mai mare oraș din Statele Unite ale Americii?: new york
+* A. Los Angeles / B. Chicago / C. Houston / D. New York
+
+- 12. Care este capitala Australiei?: canberra
+* A. Sydney / B. Melbourne / C. Canberra / D. Brisbane
+
+- 13. Care este capitala Thailandei?: bangkok
+* A. Phuket / B. Chiang Mai / C. Pattaya / D. Bangkok
+
+- 14. Care este capitala Irlandei?: dublin
+* A. Belfast / B. Cork / C. Galway / D. Dublin
+
+- 15. Care este cel mai mare oraș din Africa?: lagos
+* A. Cairo / B. Johannesburg / C. Lagos / D. Kinshasa
+
+- 16. Care este capitala Greciei?: atena
+* A. Salonic / B. Patras / C. Atena / D. Heraklion
+
+- 17. Care este cel mai mare oraș din China?: shanghai
+* A. Beijing / B. Guangzhou / C. Shenzhen / D. Shanghai
+
+- 18. Care este capitala Mexicului?: mexico city
+* A. Cancun / B. Guadalajara / C. Monterrey / D. Mexico City
+
+- 19. Care este cel mai mare oraș din India?: mumbai
+* A. New Delhi / B. Kolkata / C. Chennai / D. Mumbai
+
+- 20. Care este capitala Vietnamului?: hanoi
+* A. Ho Chi Minh City / B. Hanoi / C. Da Nang / D. Haiphong
+
+[orase-greu]
+- 1. Care este capitala Kazahstanului?: nur-sultan
+* A. Almaty / B. Astana / C. Nur-Sultan / D. Shymkent
+
+- 2. Care este cel mai mare oraș din Australia?: sydney
+* A. Sydney / B. Melbourne / C. Brisbane / D. Perth
+
+- 3. Care este cel mai mare oraș din China?: shanghai
+* A. Beijing / B. Shanghai / C. Guangzhou / D. Shenzhen
+
+- 4. Care este capitala Marocului?: rabat
+* A. Casablanca / B. Marrakesh / C. Rabat / D. Fes
+
+- 5. Care este cel mai mare oraș din India?: mumbai
+* A. New Delhi / B. Mumbai / C. Kolkata / D. Bengaluru
+
+- 6. Care este capitala Egiptului?: cairo
+* A. Cairo / B. Alexandria / C. Giza / D. Luxor
+
+- 7. Care este capitala Emiratelor Arabe Unite?: abu dhabi
+* A. Dubai / B. Abu Dhabi / C. Sharjah / D. Ajman
+
+- 8. Care este cel mai mare oraș din Argentina?: buenos aires
+* A. Buenos Aires / B. Cordoba / C. Rosario / D. Mendoza
+
+- 9. Care este capitala Iranului?: tehran
+* A. Tehran / B. Shiraz / C. Isfahan / D. Tabriz
+
+- 10. Care este cel mai mare oraș din Africa de Sud?: johannesburg
+* A. Johannesburg / B. Cape Town / C. Durban / D. Pretoria
+
+- 11. Care este capitala Cehiei?: praga
+* A. Brno / B. Ostrava / C. Plzen / D. Praga
+
+- 12. Care este cel mai mare oraș din Canada?: toronto
+* A. Toronto / B. Montreal / C. Vancouver / D. Ottawa
+
+- 13. Care este capitala Norvegiei?: oslo
+* A. Oslo / B. Bergen / C. Stavanger / D. Trondheim
+
+- 14. Care este cel mai mare oraș din Coreea de Sud?: seoul
+* A. Seongnam / B. Busan / C. Incheon / D. Seoul
+
+- 15. Care este capitala Suediei?: stockholm
+* A. Stockholm / B. Gothenburg / C. Malmö / D. Uppsala
+
+- 16. Care este cel mai mare oraș din Rusia?: moscova
+* A. Moscova / B. Sankt Petersburg / C. Novosibirsk / D. Ecaterinburg
+
+- 17. Care este capitala Ungariei?: budapesta
+* A. Budapesta / B. Debrecen / C. Szeged / D. Miskolc
+
+- 18. Care este cel mai mare oraș din Turcia?: istanbul
+* A. Istanbul / B. Ankara / C. Izmir / D. Bursa
+
+- 19. Care este capitala Portugaliei?: lisabona
+* A. Porto / B. Coimbra / C. Faro / D. Lisabona
+
+- 20. Care este cel mai mare oraș din Polonia?: varsovia
+* A. Varșovia / B. Cracovia / C. Lódz / D. Wroclaw
+
